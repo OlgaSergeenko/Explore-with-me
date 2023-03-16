@@ -13,6 +13,11 @@ by other users.
 page compilations of events. It allows events moderation - publication or rejection, and user 
 management - adding, viewing and deleting.
 
+- Future development plans:
+    * add tests;
+    * add Spring Security module to manage users access levels;
+    * add Spring Cloud (Service Discovery module);
+
 ## Full description of additional feature - COMMENTS
 To see pull request for feature use this [link](https://github.com/OlgaSergeenko/java-explore-with-me/pull/3)
 
